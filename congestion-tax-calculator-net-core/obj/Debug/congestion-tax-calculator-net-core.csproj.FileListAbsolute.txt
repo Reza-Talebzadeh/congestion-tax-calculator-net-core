@@ -1,0 +1,15 @@
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.csproj.AssemblyReference.cache
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.csproj.CoreCompileInputs.cache
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\bin\Debug\congestion-tax-calculator-net-core.exe.config
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\bin\Debug\congestion-tax-calculator-net-core.exe
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\bin\Debug\congestion-tax-calculator-net-core.pdb
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.exe
+D:\Programs\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.pdb
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\bin\Debug\congestion-tax-calculator-net-core.exe.config
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\bin\Debug\congestion-tax-calculator-net-core.exe
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\bin\Debug\congestion-tax-calculator-net-core.pdb
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.csproj.AssemblyReference.cache
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.csproj.SuggestedBindingRedirects.cache
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.csproj.CoreCompileInputs.cache
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.exe
+D:\RTT\fintranet\congestion-tax-calculator-net-core\congestion-tax-calculator-net-core\obj\Debug\congestion-tax-calculator-net-core.pdb
