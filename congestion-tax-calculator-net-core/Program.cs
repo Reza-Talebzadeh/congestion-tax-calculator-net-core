@@ -39,7 +39,8 @@ namespace congestion_tax_calculator_net_core
             Vehicle car = new Vehicle("car", false);
 
             GothenburgTax gothenburg = new GothenburgTax(car, dates , 60 , 60);
-
+            Console.WriteLine(gothenburg.GetTotalTollTaxAmount());  
+            Console.ReadKey();
         }
     }
 }
